@@ -41,6 +41,6 @@ ht-degree: 0%
 
 >[!ENDSHADEBOX]
 
-Con la funzione di rilevamento della deriva del modello di Marketing Campaign Analytics, le modifiche alle prestazioni del modello vengono rilevate automaticamente e gli utenti vengono informati. Possono intervenire immediatamente per riportare il modello a prestazioni ottimali. Per ulteriori informazioni, vedi [Deriva modello](https://experienceleague.adobe.com/en/docs/mix-modeler/using/models/insights#model-drift){target="_blank"} nella documentazione di Marketing Campaign Analytics.
+Con la funzione di rilevamento della deriva del modello di Marketing Campaign Analytics, le modifiche alle prestazioni del modello vengono rilevate automaticamente e gli utenti vengono informati. Possono intervenire immediatamente per riportare il modello a prestazioni ottimali. Per ulteriori informazioni, vedi [Deriva modello](https://experienceleague.adobe.com/it/docs/mix-modeler/using/models/insights#model-drift){target="_blank"} nella documentazione di Marketing Campaign Analytics.
 
 >[!SLIDE](model-drift-detection)
