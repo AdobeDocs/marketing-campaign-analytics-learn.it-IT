@@ -25,19 +25,19 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 9204bd8bbe86d179f4059b292de137b34933b6db
+source-git-commit: d48aefc7040e9ad22f86c87326bceddc09113e67
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '108'
 ht-degree: 0%
 ---
 # Pianificazione basata sugli obiettivi
 
 >[!BEGINSHADEBOX]
 
-**Adobe Marketing Campaign Analytics** è l&#39;evoluzione e il rebranding di **Adobe Marketing Campaign Analytics**. Alcuni contenuti di Experience League potrebbero ancora fare riferimento a Mix Modeler invece che a Marketing Campaign Analytics.
+**Adobe Marketing Campaign Analytics** è l&#39;evoluzione e il rebranding di **Adobe Mix Modeler**. Alcuni contenuti di Experience League potrebbero ancora fare riferimento a Mix Modeler invece che a Marketing Campaign Analytics.
 
 >[!ENDSHADEBOX]
 
-Con la funzione di pianificazione basata sugli obiettivi di Marketing Campaign Analytics, puoi pianificare in base agli obiettivi aziendali e non solo al budget. Puoi allocare i tuoi budget in modo efficiente tra canali e campagne per raggiungere i tuoi obiettivi con il massimo ROI. Per ulteriori informazioni, consulta [Piani](https://experienceleague.adobe.com/it/docs/mix-modeler/using/plans/overview){target="_blank"} nella documentazione di Marketing Campaign Analytics.
+Con la funzione di pianificazione basata sugli obiettivi di Marketing Campaign Analytics, puoi pianificare in base agli obiettivi aziendali e non solo al budget. Puoi allocare i tuoi budget in modo efficiente tra canali e campagne per raggiungere i tuoi obiettivi con il massimo ROI. Per ulteriori informazioni, consulta [Piani](https://experienceleague.adobe.com/en/docs/mix-modeler/using/plans/overview){target="_blank"} nella documentazione di Marketing Campaign Analytics.
 
 >[!SLIDE](goal-based-planning)
