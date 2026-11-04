@@ -48,7 +48,7 @@ Adobe Marketing Campaign Analytics aiuta le organizzazioni a misurare, ottimizza
 <tr>
   <td>
     <a href="intro/demo.md">
-      <img alt="miniatura per l’esercitazione &quot;Demo end-to-end&quot;" src="https://video.tv.adobe.com/v/3440794?format=jpeg" />
+      <img alt="miniatura per l’esercitazione &quot;Demo end-to-end&quot;" src="https://video.tv.adobe.com/v/3440802?captions=ita&format=jpeg" />
     </a>
     <div>
       <a href="intro/demo.md">
@@ -61,7 +61,7 @@ Adobe Marketing Campaign Analytics aiuta le organizzazioni a misurare, ottimizza
   </td>
   <td>
     <a href="intro/user-interface-tour.md">
-      <img alt="miniatura del video di presentazione dell&apos;interfaccia utente" src="https://video.tv.adobe.com/v/3424851?format=jpeg" />
+      <img alt="miniatura del video di presentazione dell&apos;interfaccia utente" src="https://video.tv.adobe.com/v/3452390?captions=ita&format=jpeg" />
     </a>
     <div>
       <a href="intro/user-interface-tour.md">
@@ -74,7 +74,7 @@ Adobe Marketing Campaign Analytics aiuta le organizzazioni a misurare, ottimizza
   </td>
   <td>
     <a href="intro/user-workflow.md">
-      <img alt="miniatura per l’esercitazione &quot;Flusso di lavoro utente&quot;" src="https://video.tv.adobe.com/v/3424854?format=jpeg" />
+      <img alt="miniatura per l’esercitazione &quot;Flusso di lavoro utente&quot;" src="https://video.tv.adobe.com/v/3440211?captions=ita&format=jpeg" />
     </a>
     <div>
       <a href="intro/user-workflow.md">
